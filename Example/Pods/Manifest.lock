@@ -1,5 +1,5 @@
 PODS:
-  - TestCocoaPods (0.2.0)
+  - TestCocoaPods (0.3.0)
 
 DEPENDENCIES:
   - TestCocoaPods (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TestCocoaPods: e9e00a403fbc9bbf69ad015f8beb0a887431d2a5
+  TestCocoaPods: 6d3f7da380c6a51f6ff4fcbe0c82ae04a8342ff3
 
 PODFILE CHECKSUM: af6675afdcec6a10a83d0de53235188cde832953
 

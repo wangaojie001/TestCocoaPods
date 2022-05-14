@@ -1,9 +1,9 @@
 {
   "name": "TestCocoaPods",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A short description of TestCocoaPods.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/gaojie.wan/TestCocoaPods",
+  "homepage": "https://github.com/wangaojie001/TestCocoaPods",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "gaojie.wan": "gaojieapp@163.com"
   },
   "source": {
-    "git": "https://github.com/gaojie.wan/TestCocoaPods.git",
-    "tag": "0.2.0"
+    "git": "https://github.com/wangaojie001/TestCocoaPods.git",
+    "tag": "0.3.0"
   },
   "platforms": {
     "ios": "9.0"
